@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-03-01T14:49:29.080Z</updated>
+  <updated>2025-03-01T14:54:19.770Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>空白</title>
+    <link href="http://example.com/post/75ec601e.html"/>
+    <id>http://example.com/post/75ec601e.html</id>
+    <published>2025-03-01T15:52:14.000Z</published>
+    <updated>2025-03-01T14:54:19.770Z</updated>
+    
+    <content type="html"><![CDATA[<p>空白😑</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;空白😑&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Experience" scheme="http://example.com/categories/Experience/"/>
+    
+    
+    <category term="空白" scheme="http://example.com/tags/%E7%A9%BA%E7%99%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>There is no pause button in the flight.</title>
